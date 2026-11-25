@@ -1,0 +1,5 @@
+name: onomeo
+kind: model-provider
+version: 0.1.0
+description: onomeo — one OpenAI-compatible API key for Claude, GPT, Gemini, DeepSeek, Kimi and GLM models
+author: onomeo
